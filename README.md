@@ -45,7 +45,7 @@ Here is how you set it all up.
 
 ## How to Get a GitHub account
 
-Follow the instructions in the email we sent you.
+[Follow this link.](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
 ## How to Install `git` on Your Computer
 
